@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.contacts{
+  
+  text-align: right;
+  background-color: white;
+  padding: 10px;
+  margin: 30px;
+  width: 40vh; 
+  height: 25vh; 
+  font-size: 15px;
+  border: 3px solid rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.name{
+  padding-right: 6vw;
+}
+.number{
+  padding-right: 3vw;
+}
+
+.image{
+  border-radius: 50%;
+  border: 2px solid rgb(0, 0, 0);
+  float: left;
+
+}
